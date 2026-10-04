@@ -61,6 +61,5 @@
 ⚙️ Automação e n8n<br>
 🌐 Desenvolvimento Web<br>
 💬 Chatbots e Assistentes de IA<br>
-🗄️ Banco de Dados<br>
 🚀 Tecnologia e Desenvolvimento de Software
 </p>
